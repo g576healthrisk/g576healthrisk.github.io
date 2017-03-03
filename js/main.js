@@ -1,0 +1,4 @@
+
+var hexHealth = (function() {
+
+})();
